@@ -1,0 +1,149 @@
+*{
+    font-family: "Danfo", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "ELSH" 0;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url("./images/city-7137958_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main{
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    filter: opacity(70%);
+}
+
+.about{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Culture{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 40vh;
+    background-color: rgb(83, 74, 74);
+    border-radius: 10px;
+}
+
+main img{
+    width: 20vh;
+    border-radius: 10px;
+}
+
+.Container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    width: 196vh;
+    height: max-content;
+    opacity: 1;
+    filter: opacity(70%);
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+
+.contact h2{
+    text-align: center;
+}
+
+.contact p{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Reserve{
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid black;
+}
+
+.Reserve h1 th{
+    padding: 10px;
+    margin: 10px;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: linear-gradient( 45deg, rgba( #fe71dc, 2 ), rgba( #dc71fe, 2 ) );
+    /* background-color: whitesmoke;
+    filter: opacity(70%); */
+}
+
+nav div{
+    margin: 30px;
+    gap: 1em;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    padding-left: 10px;
+}
+
+nav a:hover{
+    color: red;
+}
+
+.img{
+    padding: 30px;
+}
+
+.img img{
+    width: 20vh;
+    border-radius: 10px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px){
+   main{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: smaller;
+   }
+   .Showcase{
+    font-size: x-small;
+    text-align: center;
+   }
+}

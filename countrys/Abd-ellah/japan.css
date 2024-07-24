@@ -1,0 +1,450 @@
+body{
+    padding: 0%;
+    margin:0%;
+}
+.b1{
+width: 100%;
+height: 594px;
+}
+.mainlogo{
+width: 65px;
+
+}
+.italy{
+text-decoration: none;
+font-family: "Oswald";
+font-size: 24px;
+}
+
+.angleterre{
+    text-decoration: none;
+    font-family: "Oswald";
+    font-size: 24px;
+}
+
+
+.thailand{
+    text-decoration: none;
+    font-family: "Oswald";
+    font-size: 24px;
+}
+
+
+.algerie{
+    text-decoration: none;
+    font-family: "Oswald";
+    font-size: 24px;
+}
+
+.brazil{
+    text-decoration: none;
+    font-family: "Oswald";
+    font-size: 24px; 
+}
+.spain{
+    text-decoration: none;
+    font-family: "Oswald";
+    font-size: 24px;
+}
+.koria{
+    text-decoration: none;
+    font-family: "Oswald";
+    font-size: 24px;
+}
+.india{
+    text-decoration: none;
+    font-family: "Oswald";
+    font-size: 24px;
+}
+.Acceuilee{
+    text-decoration: none;
+    font-family: "Oswald";
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+}
+.nav a{
+    display: inline-block; 
+    padding: 10px 15px;
+    margin-left: 10px;
+    color: black;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    margin-left: 0vw;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    justify-content: space-evenly;
+}
+.mapfulljapan{
+    width: 500px;
+    display: flex;
+    float: right;
+}
+.régions{
+    font-family:"Oswald";
+    font-size: 40px;
+    margin-left: 30px;
+}
+.hokkaidosmall{
+
+    width: 400px;
+}
+
+a.hokkaidoimg > img {width: 390px; filter: drop-shadow(7px 7px 4px #09090a); border-radius: 20px;margin-left: 20px;}
+a.hokkaidoimg > img:hover {width: 410px; transition: 1s;}
+
+a.kantoimg > img {width: 390px; filter: drop-shadow(7px 7px 4px #09090a); border-radius: 20px;margin-left: 20px;}
+a.kantoimg > img:hover {width: 410px; transition: 1s ;}
+
+a.kinkiimg > img {width: 390px; filter: drop-shadow(7px 7px 4px #09090a); border-radius: 20px;margin-left: 20px;}
+a.kinkiimg > img:hover {width: 410px; transition: 1s ;}
+.handkandk{
+    display: flex;
+    flex-direction: row;
+height: 40vh;
+justify-content: center;
+justify-content: space-evenly;
+}
+.lamps{
+    width: 500px;
+    
+}
+.handimg{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 30px;
+}
+.pourqoih1{
+    margin-left: 30px;
+    font-family:"Oswald" ;
+    font-size: 40px;
+}
+.h1andp{display: flex;flex-direction: column;justify-content: space-around;}
+.p1{
+    font-family:"Oswald";
+    font-size: 30px;
+    margin-left: 30px;
+}
+.flowers{
+    width: 500px;
+
+}
+.histoire{position: absolute;/* top: 1900px; *//* left: 90px; */font-family: "Oswald";/* left: 500px; */font-size: 100px;color: white;/* text-align: center; */top: 0;bottom: 0;left: 10%;right: 50%;}
+.histoireh1andimg{/* margin-top: 90px; */text-align: center;position: relative;/* margin: 90px; */}
+.histoirep1{
+    font-family: "Oswald";
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+.allhistoirep{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+.endfirstpage{
+    width: 1000px;
+    margin-left: 150px;
+    
+}
+.fullmap{
+    width: 200px;
+}
+.footerp{
+    font-family: "Oswald";
+    font-size: 20px;
+}
+
+
+
+.hokkaidopage{
+padding: 0%;
+margin: 0%;
+.hokkaidobackground{
+width:100%;
+padding: 0%;
+
+}
+.asahikawaimg{
+    width: 480px;
+    
+}
+
+.asahikawah1{
+    font-family: "Oswald";
+    font-size: 70px;
+    
+}
+.asahikawap1{
+    font-family: "Oswald";
+    font-size: 20px;
+}
+.asahikawah1andp1{
+    display: flex;
+    flex-direction: column;
+    
+}
+.asahikawaimgandh1andp1{
+    margin-top: 90px;
+display: flex;
+flex-direction: row-reverse;
+padding: 10px;
+}
+.asahikawaimg2{
+    width: 1000px;
+    margin-left: 140px;
+}
+.sapporoh1{
+font-family: "Oswald";
+font-size: 90px;
+text-align: center;
+text-decoration: overline;
+}
+.sapporoimg{
+    width: 100vw;
+}
+.sapporop123{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    font-family: "Oswald";
+    font-size: 22px;
+}
+.otaruh1{
+    font-family: "Oswald";
+font-size: 90px;
+text-align: center;
+text-decoration: overline;
+}
+.otaruimg{
+    width: 50vw;
+}
+.otaruimgandp1{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+.otarup1{
+    font-family: "Oswald";
+    font-size: 22px;
+    padding: 10px;
+}
+.otarulogoimg{
+    width: 120px;
+    position: relative;
+    left: 480px;
+}
+.logoandp1{
+    display: flex;
+    flex-direction: column;
+}
+.endsecondpage{
+    width: 1000px;
+    margin-left: 150px;
+
+
+}
+}
+
+.kantopage{
+padding: 0%;
+margin: 0%;
+
+.kantobackground{
+width: 99vw;
+
+
+}
+.kantoh1{
+    font-family: "Oswald";
+    font-size: 80px;
+    text-decoration: underline;
+    text-align: center;
+}
+.tokyoimg{
+    width: 99vw;
+}
+.tokyotowerimg{
+    width: 30vw;
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+    bottom: 4px;
+}
+.tokyoh1{
+    font-family: "Oswald";
+    font-size: 40px;
+}
+.tokyop1{
+font-family: "Oswald";
+font-size: 20px;
+
+}
+.tokyoh1andp1{display: flex;flex-direction: column;margin: 10px;}
+
+.tokyoimgandh1andp1{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+.shibaimg{
+    width: 700px;
+}
+.shibah1{
+    font-family: "Oswald";
+    font-size: 40px;
+}
+.shibap1{
+    font-family: "Oswald";
+    font-size: 25px;
+}
+.shibah1andp1{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+.shibah1andp1andimg{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin-top: 29px;
+
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+.kinkipage{
+.kinkibackground{
+width: 99vw;
+
+}
+.grandevilles{
+    font-family: "Oswald";
+    font-size: 70px;
+    text-align: center;
+    text-decoration: overline;
+}
+.kyotoimg{
+    width: 50vw;
+}
+.kyotoh1{
+font-family: "Oswald";
+font-size: 35px;
+
+
+}
+.kyotop1{
+font-family: "Oswald";
+font-size: 20px;
+
+}
+.kyotoh1andp1{
+display: flex;
+flex-direction: column;
+margin: 20px;
+}
+.kyotoimgandh1andp1{
+display: flex;
+flex-direction: row;
+padding: 20px;
+}
+.iconumbrella{
+    width: 60px;
+    position: relative;
+    left: 1200px;
+    bottom: 66px;
+}
+
+.osakaimg{
+    width: 50vw;
+}
+.osakah1{
+font-family: "Oswald";
+font-size: 40px;
+
+}
+.osakap1{
+font-family: "Oswald";
+font-size: 20px;
+
+}
+.osakaimgandh1andp1{
+display: flex;
+flex-direction: row;
+padding: 30px;
+}
+.osakah1andp1{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.ramentops{
+    width: 70px;
+    position: relative;
+    left: 1000px;
+    bottom: 100px;
+}
+}
+.lastimgfooter{
+width: 120px;
+border-radius: 60px;
+}
+.lastpfooter{
+font-family: "Oswald";
+font-size: 25px;
+position: relative;
+left: 500px;
+}
+.lastimgandp{
+display: flex;
+flex-direction: row;
+
+}
+footer{
+    
+    border-top: 1px solid #afa9a9;
+    padding: 20px;
+    box-shadow: -1px -2px 12px black;
+}
+
+.finalas {
+    font-family: "Oswald";
+    font-size: 24px;
+display: flex;
+flex-direction: column;
+align-items: center;
+text-decoration: none;
+color: #09090a;
+position: relative;
+right: 420px;
+bottom: 80px;
+}
+.japan-logo{
+width: 70px;
+margin-left: 1150px;
+margin-bottom: 660px;
+}
+.finalas a{
+text-decoration: none;
+color: #09090a;
+
+}
+
+
+
+
+

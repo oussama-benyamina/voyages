@@ -1,0 +1,28 @@
+/* stayle.css */
+body {
+    background-image: url("../images/la-nature.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+header {
+    background-color: hwb(204 4% 94% / 0.412);
+    color: hsl(0, 42%, 87%);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+main
+{
+    background-color: hwb(210 8% 31% / 0.429);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease;
+}

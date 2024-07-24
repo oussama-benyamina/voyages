@@ -1,0 +1,33 @@
+
+
+section div.flex1 {
+  flex: 1;
+  
+  /*! margin: ; */
+}
+
+section div.flex2 {
+  flex:1;
+}
+
+.fa,
+.fas {
+  font-weight:900;
+  color: white !important;
+}
+
+
+
+h1.software {
+  text-align: center;
+}
+
+ol.software-list {
+padding: 3vh;
+margin: 30px;
+}
+
+ol.software-list > li {
+  margin: 20px;
+  font-size: 1.1rem;
+}
